@@ -1,0 +1,208 @@
+ /* laptop */
+@media screen and (min-device-width: 1200px) and (max-device-width: 1500px) {
+
+
+}
+/* normal */
+
+@media screen and (min-device-width: 992px) and (max-device-width: 1200px) { 
+
+}
+
+/* tablet */
+
+@media screen and (min-device-width: 768px) and (max-device-width: 992px) { 
+  .p-10 {
+    padding: 13px !important;
+}
+.ms-80 {
+  margin-left: 0px; 
+}
+.section-p {
+  line-height: 1.9;
+  padding-bottom: 2px;
+  padding-top: 5px;
+}
+.p-130 {
+  padding-bottom: 105px;
+  padding-top: 5px !important;
+}
+.email-box{
+  display: block !important;
+}
+.email-box div{
+  margin: 5px 0px !important;
+}
+  .div:after{
+    top: 64%;
+  }
+  .div .h4-years{
+    top: 53%;
+  }
+  .service-box.shadow-sm {
+   
+    padding: 40px 17px;
+}
+.div .h4-years {
+ 
+  top: 53%;
+  left: -72px;
+ 
+}
+.about .container .pe-5{
+  padding: 0px 25px!important;
+  justify-content: center !important;
+}
+
+
+
+
+}
+
+/* small mobail */
+
+@media screen and (min-device-width: 567px) and (max-device-width: 767px) {
+  .p-10 {
+    padding: 13px !important;
+}
+
+.about .container .pe-5{
+  padding: 0px 25px!important;
+  justify-content: center !important;
+}
+.ms-80 {
+  margin-left: 0px; 
+}
+.p-130 {
+  padding-bottom: 39px;
+  padding-top: 10px !important;
+}
+.res-center{
+  text-align: center !important;
+}
+.text-area {
+   margin-top: 10px;
+}
+.padding-btn {
+   margin-top: 15px;
+  margin-bottom: 20px;
+}
+.section-p {
+  line-height:1.9;
+  padding-top: 25px;
+  padding-bottom: 15px;
+}
+.email-box{
+  display: block !important;
+}
+.email-box div{
+  margin: 15px 0px !important;
+}
+.div:after{
+  top: 90%;
+}
+  .div .h4-years{
+    top: 69%;
+  }
+  .section-h-title {
+    padding-top: 67px;
+}
+
+
+
+
+
+
+
+
+    
+}
+@media (min-width: 576px){
+
+}
+@media screen and (min-device-width: 320px) and (max-device-width: 567px) {
+
+  .logo-bg::after {
+     top: -151%;
+    left: -43px;
+ }
+  .ms-80 {
+    margin-left: 0px; 
+  }
+  .hero {
+      padding: 91px 0px 40px 0px;
+}
+  .p-10 {
+    padding: 13px !important;
+}
+.div .h4-years {
+ 
+  display: none;
+}
+.p-130 {
+  padding-bottom: 39px;
+  padding-top: 10px !important;
+}
+.res-center{
+  text-align: center !important;
+}
+.text-area {
+   margin-top: 10px;
+}
+.padding-btn {
+   margin-top: 15px;
+  margin-bottom: 20px;
+}
+.section-p {
+  line-height:1.9;
+  padding-top: 25px;
+  padding-bottom: 15px;
+}
+.email-box{
+  display: block !important;
+}
+.email-box div{
+  margin: 15px 0px !important;
+}
+
+.div::after {
+  display: none;
+  right: -19px;
+  }
+.about .container .pe-5{
+  padding: 0px 25px!important;
+  justify-content: center !important;
+}
+.section-h-title {
+  font-size: 30px;
+ }
+ .hed-title {
+  padding-top: 37px;
+  padding-bottom: 70px;
+}
+  .section-h-title {
+    padding-top: 67px;
+}
+.service-box.shadow-sm {
+  padding: 40px 45px;
+}
+.coundoun-item {
+  padding: 25px 0px;
+}
+.input , .text-area{
+  width: 90%;
+}
+.padding-btn {
+  padding-left: 7%;
+}
+.p-10 {
+  padding: 7px !important;
+  padding-top: 11px !important;
+}
+
+.copy-right{
+  font-size: 12px;
+}
+
+
+}
